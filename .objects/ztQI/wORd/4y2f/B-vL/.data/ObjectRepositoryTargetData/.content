@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="OrX2C0RZ6EKoee1WkoPPig" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/104064019" CVScreenId="a314fae2-615d-40d9-9cb1-d34df1567802" DesignTimeRectangle="290, 615, 292, 47" DesignTimeScaleFactor="1.4249999523162842" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname=' Download Check Request' tag='BUTTON' type='button' /&gt;" Guid="54aca478-7ea8-4c5a-972b-643a9d96c093" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a314fae2-615d-40d9-9cb1-d34df1567802" DesignTimeRectangle="290, 544, 532, 28" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='DIV' innertext='                     Check Request                                                                            Download Check Request                                                               ' /&gt;&lt;webctrl tag='H4' /&gt;" Guid="323fcb35-06cf-43ff-b268-efbe523842dd" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b9fdfd33f0f603b6cd83af617993db6a.png" xmlns="">0FHVTzWQRx0CQRt4bh91nbA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
